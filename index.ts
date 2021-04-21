@@ -1,0 +1,1 @@
+console.log("Any message you want")

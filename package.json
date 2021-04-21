@@ -1,0 +1,23 @@
+{
+  "name": "myfirstwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-script index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TbinhCodeNext/TbinhCodeNext.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TbinhCodeNext/TbinhCodeNext.github.io/issues"
+  },
+  "homepage": "https://github.com/TbinhCodeNext/TbinhCodeNext.github.io#readme",
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
