@@ -1,0 +1,3 @@
+The presented project files was not backed up after I cloned my disk. Below are the code of TypeScript files
+that I sent to my Google Code Next Coach (Kelly Bergeron). Information used comes from the website, https://genshin-impact.fandom.com/wiki/Characters !
+I did this TypeScript club from April 13th to June 8th, 2021 and demoed on June 11th 2021 to a large group of people.
